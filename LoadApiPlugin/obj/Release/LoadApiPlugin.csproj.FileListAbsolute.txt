@@ -1,0 +1,17 @@
+C:\Users\korya\source\repos\PhonePluginsApplication\LoadApiPlugin\bin\Release\EmployeesLoader.Plugin.dll
+C:\Users\korya\source\repos\PhonePluginsApplication\LoadApiPlugin\bin\Release\EmployeesViewer.Plugin.dll
+C:\Users\korya\source\repos\PhonePluginsApplication\LoadApiPlugin\bin\Release\EmployeesViewer.Plugin.pdb
+C:\Users\korya\source\repos\PhonePluginsApplication\LoadApiPlugin\bin\Release\LoadApi.Plugin.dll
+C:\Users\korya\source\repos\PhonePluginsApplication\LoadApiPlugin\bin\Release\LoadApi.Plugin.pdb
+C:\Users\korya\source\repos\PhonePluginsApplication\LoadApiPlugin\bin\Release\Newtonsoft.Json.dll
+C:\Users\korya\source\repos\PhonePluginsApplication\LoadApiPlugin\bin\Release\NLog.dll
+C:\Users\korya\source\repos\PhonePluginsApplication\LoadApiPlugin\bin\Release\PhoneApp.exe
+C:\Users\korya\source\repos\PhonePluginsApplication\LoadApiPlugin\bin\Release\PhoneApp.pdb
+C:\Users\korya\source\repos\PhonePluginsApplication\LoadApiPlugin\bin\Release\PhoneApp.exe.config
+C:\Users\korya\source\repos\PhonePluginsApplication\LoadApiPlugin\bin\Release\Newtonsoft.Json.xml
+C:\Users\korya\source\repos\PhonePluginsApplication\LoadApiPlugin\bin\Release\NLog.xml
+C:\Users\korya\source\repos\PhonePluginsApplication\LoadApiPlugin\obj\Release\LoadApiPlugin.csproj.AssemblyReference.cache
+C:\Users\korya\source\repos\PhonePluginsApplication\LoadApiPlugin\obj\Release\LoadApiPlugin.csproj.CoreCompileInputs.cache
+C:\Users\korya\source\repos\PhonePluginsApplication\LoadApiPlugin\obj\Release\LoadApiP.DE84AB85.Up2Date
+C:\Users\korya\source\repos\PhonePluginsApplication\LoadApiPlugin\obj\Release\LoadApi.Plugin.dll
+C:\Users\korya\source\repos\PhonePluginsApplication\LoadApiPlugin\obj\Release\LoadApi.Plugin.pdb

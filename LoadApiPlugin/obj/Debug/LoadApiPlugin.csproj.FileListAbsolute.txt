@@ -1,0 +1,17 @@
+C:\Users\korya\source\repos\PhonePluginsApplication\LoadApiPlugin\bin\Debug\EmployeesLoader.Plugin.dll
+C:\Users\korya\source\repos\PhonePluginsApplication\LoadApiPlugin\bin\Debug\EmployeesViewer.Plugin.dll
+C:\Users\korya\source\repos\PhonePluginsApplication\LoadApiPlugin\bin\Debug\EmployeesViewer.Plugin.pdb
+C:\Users\korya\source\repos\PhonePluginsApplication\LoadApiPlugin\bin\Debug\Newtonsoft.Json.dll
+C:\Users\korya\source\repos\PhonePluginsApplication\LoadApiPlugin\bin\Debug\NLog.dll
+C:\Users\korya\source\repos\PhonePluginsApplication\LoadApiPlugin\bin\Debug\PhoneApp.exe
+C:\Users\korya\source\repos\PhonePluginsApplication\LoadApiPlugin\bin\Debug\PhoneApp.pdb
+C:\Users\korya\source\repos\PhonePluginsApplication\LoadApiPlugin\bin\Debug\PhoneApp.exe.config
+C:\Users\korya\source\repos\PhonePluginsApplication\LoadApiPlugin\bin\Debug\Newtonsoft.Json.xml
+C:\Users\korya\source\repos\PhonePluginsApplication\LoadApiPlugin\bin\Debug\NLog.xml
+C:\Users\korya\source\repos\PhonePluginsApplication\LoadApiPlugin\obj\Debug\LoadApiPlugin.csproj.AssemblyReference.cache
+C:\Users\korya\source\repos\PhonePluginsApplication\LoadApiPlugin\obj\Debug\LoadApiPlugin.csproj.CoreCompileInputs.cache
+C:\Users\korya\source\repos\PhonePluginsApplication\LoadApiPlugin\obj\Debug\LoadApiP.DE84AB85.Up2Date
+C:\Users\korya\source\repos\PhonePluginsApplication\LoadApiPlugin\bin\Debug\LoadApi.Plugin.dll
+C:\Users\korya\source\repos\PhonePluginsApplication\LoadApiPlugin\bin\Debug\LoadApi.Plugin.pdb
+C:\Users\korya\source\repos\PhonePluginsApplication\LoadApiPlugin\obj\Debug\LoadApi.Plugin.dll
+C:\Users\korya\source\repos\PhonePluginsApplication\LoadApiPlugin\obj\Debug\LoadApi.Plugin.pdb

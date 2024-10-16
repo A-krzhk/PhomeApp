@@ -9,19 +9,22 @@ namespace PhoneApp.Domain.DTO
   public partial class EmployeesDTO : DataTransferObject
   {
     public string Name { get; set; }
-    public string Phone {
-      get { return _phones.Any() ? _phones.LastOrDefault().Value : "-"; } 
-    }
+    public string Phone { get; set; }
     public void AddPhone(string phone)
     {
       if(String.IsNullOrEmpty(phone))
       {
         throw new Exception("Phone must be provided!");
       }
-
+      Phone = phone;
       _phones.Add(DateTime.Now, phone);
     }
 
     private Dictionary<DateTime, string> _phones = new Dictionary<DateTime, string>();
-  }
+
+        public EmployeesDTO(string name)
+        {
+            Name = name;
+        }
+    }
 }
